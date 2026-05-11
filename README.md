@@ -8,18 +8,18 @@ Developers working with high-performance systems often rely on profiling tools t
 
 ## Skills
 
-- [C++](https://perfectfirms.com/hire/c/companies)
-- - [Performance](https://perfectfirms.com/top-rated-companies/performance)
-  - - [Modern C++](https://perfectfirms.com/skills/modern-cpp/companies)
-    - - Profiling
-      - - Perf
-        - - Valgrind
-          - - ASAN
-            - - Optimization
-              - - Debugging
-                - - Runtime Analysis
-                  - - Memory Management
-                    - - Software Engineering
+- [C++ Development](https://perfectfirms.com/hire/cpp-development/companies)
+  - [Performance Optimization](https://perfectfirms.com/top-rated-companies/performance)
+    - [Modern C++ Development](https://perfectfirms.com/skills/modern-cpp/companies)
+      - [Profiling Services](https://perfectfirms.com/skills/profiling/companies)
+        - [Perf Analysis](https://perfectfirms.com/skills/perf/companies)
+          - [Valgrind Services](https://perfectfirms.com/skills/valgrind/companies)
+            - [ASAN Testing](https://perfectfirms.com/skills/asan/companies)
+              - [Code Optimization](https://perfectfirms.com/skills/optimization/companies)
+                - [Debugging Services](https://perfectfirms.com/skills/debugging/companies)
+                  - [Runtime Analysis](https://perfectfirms.com/skills/runtime-analysis/companies)
+                    - [Memory Management](https://perfectfirms.com/skills/memory-management/companies)
+                      - [Software Engineering Services](https://perfectfirms.com/skills/software-engineering/companies)
                       -
                       - ## Overview
                       -
